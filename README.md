@@ -1,4 +1,2 @@
-## start project
-```
-https://www.kun.uz
-```
+## _Start Project_
+## My Firsy project
